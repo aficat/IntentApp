@@ -63,4 +63,4 @@ Upon pressing “Intent With Request for Data Pass Back” of MainActivity, the 
 
 MainActivity will request the activity being called to return some data. The key-value pair for the data returned will be (“Continent”, “Asia”). Upon returning to MainActivity, a message will be toasted to say “Returned Continent = Asia”.
 
-![Data Pass Back Layout](static/data_pass_back1_.jpg)
+![Data Pass Back Layout](static/data_pass_back1.jpg)

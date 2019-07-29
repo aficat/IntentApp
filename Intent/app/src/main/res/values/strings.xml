@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NurulAfiqah_Tut3</string>
+    <string name="intent1">Fibonacci Numbers</string>
+    <string name="intent2">Intent with data passing</string>
+    <string name="intent3">Intent with data passing using Bundle</string>
+    <string name="intent4">Intent with request for data pass back</string>
+    <string name="intent5">Fibonacci Numbers (Non Recursive)</string>
+    <string name="intent6">Fibonacci Numbers (Recursive)</string>
+    <string name="intent7">Generate</string>
+    <string name="back">Back</string>
+
+</resources>
